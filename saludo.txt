@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Hola, mundo
 Hello, world
+=======
+Hola, mundo.
+>>>>>>> Stashed changes
